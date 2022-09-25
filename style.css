@@ -464,19 +464,19 @@ body {
 
   .footer .our-statement {
     text-align: start;
-    margin-left: -19px;
+    margin-left: -2px;
   }
 
   .footer .our-statement h1 {
     font-family: "Sacramento", cursive;
     color: #fff;
-    font-size: 21px;
+    font-size: 18px;
   }
 
   .footer .our-statement p {
     font-family: "Bebas Neue", cursive !important;
     color: #6e717c;
-    font-size: 12px;
+    font-size: 10px;
     margin-bottom: -50px;
   }
 
@@ -484,7 +484,7 @@ body {
     margin: 50px 0;
     margin-bottom: -46px;
     color: #fff;
-    font-size: 12px;
+    font-size: 10px;
     text-align: center;
   }
 }
